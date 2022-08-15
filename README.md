@@ -2,7 +2,7 @@
 
 The aim of this project was to modify one of the Ghost's behavior using PacMan-CSharp (https://github.com/morosanmihail/PacMan-CSharp) (i.e. the algorithm for capturing the Pac-Man). 
 
-I updated the pink ghost's method with the "Moving Target Search (MTS)" algorithm (https://www.ijcai.org/Proceedings/91-1/Papers/033.pdf - Page 2-3).
+I updated the pink ghost's method with the "Moving Target Search (MTS)" algorithm (https://www.ijcai.org/Proceedings/91-1/Papers/033.pdf - Page 2-3) on Simulation window.
 
 
 
