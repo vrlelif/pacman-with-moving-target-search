@@ -4,7 +4,12 @@ The aim of this project was to modify one of the Ghost's behavior using PacMan-C
 
 I updated the pink ghost's method with the "Moving Target Search (MTS)" algorithm (https://www.ijcai.org/Proceedings/91-1/Papers/033.pdf - Page 2-3) on Simulation window.
 
+Run simulator and select LucPacScripted as AI
 
+
+<p align="center" width="100%">
+    <img width="50%" src="https://user-images.githubusercontent.com/57722793/184634152-8d76dfcf-83db-4fdd-b99c-244d83b8e0da.png">
+</p>
 
 ### References:
 An AI agent developed to play Ms. Pac-Man by adopting a strategy formed by MCTS and a FSM.  https://github.com/LoveDuckie/dissertation-ms-pacman-ai
