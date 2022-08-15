@@ -1,0 +1,12 @@
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\Binaries\blue_block.png
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\Binaries\green_block.png
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\Binaries\red_block.png
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\Binaries\Accord.dll.config
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\Binaries\PacmanBalanceBridge.exe.config
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\Binaries\PacmanBalanceBridge.exe
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\Binaries\PacmanBalanceBridge.pdb
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\PacmanCSharp\PacmanBalanceBridge\obj\Debug\PacmanBalanceBridge.csproj.AssemblyReference.cache
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\PacmanCSharp\PacmanBalanceBridge\obj\Debug\PacmanBalanceBridge.csproj.CoreCompileInputs.cache
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\PacmanCSharp\PacmanBalanceBridge\obj\Debug\PacmanBalanceBridge.csproj.CopyComplete
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\PacmanCSharp\PacmanBalanceBridge\obj\Debug\PacmanBalanceBridge.exe
+G:\MLSS\PacMan-CSharp-master_Original\PacMan-CSharp-master\PacmanCSharp\PacmanBalanceBridge\obj\Debug\PacmanBalanceBridge.pdb
