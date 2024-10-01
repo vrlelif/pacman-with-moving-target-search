@@ -110,6 +110,12 @@ namespace Pacman.GameLogic
 			return false;
 		}
 
+
+		protected bool checkTwoConditionTogether(int num)
+		{
+			return checkDirection((Direction)num) && (Direction)num != InverseDirection(Direction);
+		}
+
 		protected bool setNextDirection() {
 			if( NextDirection == direction )
 				return false;
